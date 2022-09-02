@@ -6,7 +6,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wayne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wayne-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="right" alt="Rafa-pic" height="150" width="150" src="https://media.discordapp.net/attachments/756213583829795031/1014392832221519882/Z98LPjYa_400x400.jpg">
 
