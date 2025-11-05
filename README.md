@@ -19,8 +19,4 @@
   
  </div>
   </div>
-
-  ### GitHub Activity
-
-![Snake animation](https://github.com/Sanji2225/Sanji2225/blob/output/github-contribution-grid-snake.svg)
   
